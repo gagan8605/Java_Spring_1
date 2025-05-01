@@ -98,9 +98,4 @@ Spring provides various hooks for customizing the lifecycle of beans:
 
 Spring IoC is a powerful tool for managing the complexity of modern Java applications. By using Spring IoC and Dependency Injection, developers can write more modular, testable, and maintainable code, while also simplifying object lifecycle management. This approach also helps in reducing boilerplate code, leading to cleaner and more efficient solutions.
 
-For more details, refer to the official [Spring Documentation](https://spring.io/docs).
-```
-
-### Usage:
-- **Add the above content** to your repository's `README.md` file.
-- **Customize** the examples with specific classes, methods, or configurations that are relevant to your project.
+For more details, refer to the official [Spring Documentation](https://spring.io/docs)
